@@ -1,0 +1,5 @@
+Sparsity,Maze Size,Thread Count,Time
+10,50,6,4124
+8,50,6,5266
+10,50,6,6603
+0,50,6,10195
